@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "repository": "bambabo-cmd/GBC-PoyonsDungeonRoom2",
+  "documented_release": "v0.4 소스 기반 / r39",
+  "verification_date": "2026-09-29",
+  "timezone": "Asia/Seoul",
+  "source_rom": {
+    "size": 2097152,
+    "md5": "78959C37152E546C5C7C271AE418A453",
+    "crc32": "5E312730",
+    "sha1": "E9BC47EFD971F2CAF9EBE9B4D85516D3813D8247",
+    "sha256": "EC80348CE790C4AFCA7D0447C21B4146968BC55FD450960CAE9334CF283D2148",
+    "filename": "Daikaijuu Monogatari - Poyon no Dungeon Room 2 (Japan).gbc",
+    "platform": "Game Boy Color",
+    "region": "Japan",
+    "representation": "압축을 푼 무수정 원본 전체 파일"
+  },
+  "patches": [
+    {
+      "path": "Poyon2_KO_r35_20260929/Poyon2_v04_KO_Galmuri7_r35.ips",
+      "format": "ips",
+      "github_blob_sha": "54559fb30aae7018c990198854abf39d38246a02",
+      "patch_checksums": {
+        "size": 629112,
+        "md5": "D472AB3D3E6749C10EADCE3AB59FC526",
+        "crc32": "CD4A30E6",
+        "sha1": "54955F36713F79E396EA99ABA24197576B122A60",
+        "sha256": "88FBD3F5BB20E6FD6EF8DEB5BCE2DB3D7AF02ED8CBEF51856B335C9402D63C79"
+      },
+      "patched_rom": {
+        "size": 4194304,
+        "md5": "70A96012B1D7CF490FFDCDDE170B8562",
+        "crc32": "C9DB3C34",
+        "sha1": "87FD1A86E629920335EA55AF1A8F657AF9C17C66",
+        "sha256": "4ABF19DF82E5B280F54322B87F1578ABB7CD4E2FF2A7108986212C594D483343"
+      },
+      "verification": "업로드된 Git blob SHA와 로컬 패치 일치 확인 후 지원 원본에 직접 재적용. 결과 전체 파일의 체크섬 계산."
+    },
+    {
+      "path": "Poyon2_KO_r36_20260929/Poyon2_v04_KO_Galmuri7_r36.ips",
+      "format": "ips",
+      "github_blob_sha": "b5722e189ea00dd5017dd81934a76dee9f9b8b1a",
+      "patch_checksums": {
+        "size": 647158,
+        "md5": "46808020C0ADC42DD29A5D753B79254E",
+        "crc32": "919313A1",
+        "sha1": "7F2CAFF506A246044018C885D3303DAD7BD7136B",
+        "sha256": "98E58882058FB38C2BFECD83BDDEEF041F618970A30CF946DF0E6D58869AE6F6"
+      },
+      "patched_rom": {
+        "size": 4194304,
+        "md5": "B99471B10704559BE94ED54DF8CCE578",
+        "crc32": "DD3DCCEA",
+        "sha1": "2C05C7B747EDF4B6BAA8CC8A5F5C91092F05BA9F",
+        "sha256": "0A3CFE193B063EBCBF1C6D2AC9A25FAED7B1C46B472555F3ED271E7CF09AF5F3"
+      },
+      "verification": "업로드된 Git blob SHA와 로컬 패치 일치 확인 후 지원 원본에 직접 재적용. 결과 전체 파일의 체크섬 계산."
+    },
+    {
+      "path": "Poyon2_KO_r37_20260929/Poyon2_v04_KO_Galmuri7_r37.ips",
+      "format": "ips",
+      "github_blob_sha": "6aee7592c568bb09bacc90a1e1144cace36dd703",
+      "patch_checksums": {
+        "size": 647200,
+        "md5": "B8BAD54BE3FB54E878330930DD78976F",
+        "crc32": "3F01CA25",
+        "sha1": "D6D1C851D55E886FC83904F220890F61989BE1C8",
+        "sha256": "370A616D8291F7357BA5067C38461999FF2FEEFA92082A2F36125DB23E81F75D"
+      },
+      "patched_rom": {
+        "size": 4194304,
+        "md5": "BA313895A42DFCE7DA526E433EF47156",
+        "crc32": "3ABA1975",
+        "sha1": "585D8BA060F6D62590899F741BB333CF4B8A1E2D",
+        "sha256": "D8872AA93CC34BF2DADEA9A08E1A92761A5E9BEA42A15E8A133964382A9A8779"
+      },
+      "verification": "업로드된 Git blob SHA와 로컬 패치 일치 확인 후 지원 원본에 직접 재적용. 결과 전체 파일의 체크섬 계산."
+    },
+    {
+      "path": "Poyon2_KO_r38_20260929/Poyon2_v04_KO_Galmuri7_r38.ips",
+      "format": "ips",
+      "github_blob_sha": "ed23a069d09be5d31dd0c47f42fac218b9af4dfb",
+      "patch_checksums": {
+        "size": 647742,
+        "md5": "2ED14273BC589D76DE3EA7E98A2ED0C3",
+        "crc32": "DDF6AA86",
+        "sha1": "377EC7B687122ADEC5916B6F5567D67E604C9695",
+        "sha256": "97BE032D9A41E07C4492FC5D643E8F053483136CA672DC4ADA90A6F17E7DD851"
+      },
+      "patched_rom": {
+        "size": 4194304,
+        "md5": "9F4464C427CB805922C9E84EAA5228F5",
+        "crc32": "2E896DFF",
+        "sha1": "993B73E237E84565ED6C06ADDB2412C14CC7ECE9",
+        "sha256": "5123868CCE734CDEDCA89C3C73A3A9EF086A47792CD5122518BFB43D4B2BAA43"
+      },
+      "verification": "업로드된 Git blob SHA와 로컬 패치 일치 확인 후 지원 원본에 직접 재적용. 결과 전체 파일의 체크섬 계산."
+    },
+    {
+      "path": "Poyon2_KO_r39_20260929/Poyon2_v04_KO_Galmuri7_r39.ips",
+      "format": "ips",
+      "github_blob_sha": "adb6097eed8b3679c83c29b90ce1869c8c2ed3af",
+      "patch_checksums": {
+        "size": 649527,
+        "md5": "B89A5F8BAFF16B13674350E0BF4F56DD",
+        "crc32": "BECC703E",
+        "sha1": "628738A0ADE1610ACEA6F6A84D1F4BB1745D57DE",
+        "sha256": "330A3D026FE00472B9E7E38AFEBD07CD63D0C47653584E971585D38C2CBBB692"
+      },
+      "patched_rom": {
+        "size": 4194304,
+        "md5": "2737725DE2C07CBDE99EE3C721BDE3BC",
+        "crc32": "A89AF063",
+        "sha1": "9D22C7F447208B52F265EAA854D31AE54DE18566",
+        "sha256": "9CEF10B2ADDE2248850B279BF03EE643AA837E05A9175DE97E8F6F8EA12E46E1"
+      },
+      "verification": "업로드된 Git blob SHA와 로컬 패치 일치 확인 후 지원 원본에 직접 재적용. 결과 전체 파일의 체크섬 계산."
+    }
+  ],
+  "history": {
+    "first_work_date": null,
+    "earliest_verified_record_date": "2026-03-09",
+    "date_evidence": "rom2/poyon2_script_studio_v78_subscan_list_ffsegment_fix_20260309.py. 이미 v78 작업물이므로 실제 최초 착수일은 이보다 이를 수 있다.",
+    "revision_label": "v0.4 소스 기반 / r39",
+    "recorded_revision_count": 38,
+    "recorded_revision_ids": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "revision_count_definition": "번호가 붙은 보존 ROM·패치·문서의 고유 버전 수. 실패/철회 후보 포함 가능. 실제 수정 작업 횟수와 다름. Front Mission은 WIP_INDEX, Scurge는 001~010 작업 기록을 사용. 공통 규칙 파일/외부 도구 날짜 제외.",
+    "total_modification_count": null,
+    "release_work_date": "2026-09-29",
+    "final_project_completion_date": null,
+    "completion_status": "전체 작업 완료 기록 미확정; 진행 중인 검수와 알려진 한계를 보존",
+    "additional_context": "현재 권장 배포판은 r39다. r35~r38은 과거 비교용으로 보존한다. 각 IPS는 동일한 일본어 원본에 직접 적용한다. r35→r36→r37→r38→r39 순서로 중복 적용하지 않는다. 과거 WIP542 계열과 v0.4의 r 번호는 별도 체계여서 합산하지 않는다."
+  },
+  "verification_scope": "파일 식별 및 패치 적용 결과 검증. 이번 문서 작업에서 에뮬레이터 실행/전체 플레이 검증을 새로 수행한 것은 아님.",
+  "known_limitations": "개발 확인본. r39 결과 기록은 전체 이벤트·실기·자연 완주 검증 완료 선언이 아니다. 남은 이벤트는 r38/r39 결과 문서를 따른다."
+}
